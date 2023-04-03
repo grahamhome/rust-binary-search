@@ -6,3 +6,4 @@ See tests for usage examples, use `cargo test` to run tests.
 - Binary search
 - Slices
 - Recursion
+- `.as_ref()`
